@@ -21,4 +21,3 @@ for cc in range(1, cases+1):
             break
     out = ''.join(s) if ok else "IMPOSSIBLE"
     print("Case #{}: {}".format(cc, out))
-    

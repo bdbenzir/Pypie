@@ -2,7 +2,7 @@ def printPattern( n) :
 	k = 0
 	for i in range(1,n+1) :
 		for j in range(i,n) :
-			print(' ', end='')
+			print(' ', end ='')
 
 		while (k != (2 * i - 1)) :
 			if (k == 0 or k == 2 * i - 2) :
