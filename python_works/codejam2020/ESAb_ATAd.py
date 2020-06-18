@@ -58,3 +58,5 @@ for case in range(1, cases + 1):
             break
         if left == 1:
             query(1) # don't bother tracking these
+
+            
