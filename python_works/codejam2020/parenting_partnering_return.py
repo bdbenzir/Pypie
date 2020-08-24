@@ -1,4 +1,5 @@
 cases = int(input())
+ccccases = int(input())
 for cc in range(1, cases+1):
     t = int(input())
     tasks = []
